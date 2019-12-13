@@ -248,6 +248,7 @@
     "compute.nodeGroups.list",
     "compute.nodeGroups.setIamPolicy",
     "compute.nodeGroups.setNodeTemplate",
+    "compute.nodeGroups.update",
     "compute.nodeTemplates.create",
     "compute.nodeTemplates.delete",
     "compute.nodeTemplates.get",

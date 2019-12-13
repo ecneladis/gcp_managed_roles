@@ -2,6 +2,8 @@
   "description": "Access to all logging permissions, and dependent permissions.",
   "etag": "AA==",
   "includedPermissions": [
+    "logging.cmekSettings.get",
+    "logging.cmekSettings.update",
     "logging.exclusions.create",
     "logging.exclusions.delete",
     "logging.exclusions.get",
