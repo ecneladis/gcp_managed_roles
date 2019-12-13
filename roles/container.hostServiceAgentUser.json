@@ -1,0 +1,11 @@
+{
+  "description": "Use access of the Kubernetes Engine Host Service Agent.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.firewalls.get",
+    "container.hostServiceAgent.use"
+  ],
+  "name": "roles/container.hostServiceAgentUser",
+  "stage": "GA",
+  "title": "Kubernetes Engine Host Service Agent User"
+}

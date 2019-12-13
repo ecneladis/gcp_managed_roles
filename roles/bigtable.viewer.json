@@ -1,0 +1,23 @@
+{
+  "description": "Read access to metadata for instances, clusters, and tables, including column families.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigtable.appProfiles.get",
+    "bigtable.appProfiles.list",
+    "bigtable.clusters.get",
+    "bigtable.clusters.list",
+    "bigtable.instances.get",
+    "bigtable.instances.list",
+    "bigtable.tables.checkConsistency",
+    "bigtable.tables.generateConsistencyToken",
+    "bigtable.tables.get",
+    "bigtable.tables.list",
+    "monitoring.metricDescriptors.get",
+    "monitoring.metricDescriptors.list",
+    "monitoring.timeSeries.list",
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/bigtable.viewer",
+  "stage": "GA",
+  "title": "Bigtable Viewer"
+}

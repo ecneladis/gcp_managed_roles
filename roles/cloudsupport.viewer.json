@@ -1,0 +1,12 @@
+{
+  "description": "Read-only access to details of a support account. This does not allow viewing cases.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudsupport.accounts.get",
+    "cloudsupport.accounts.getUserRoles",
+    "cloudsupport.accounts.list"
+  ],
+  "name": "roles/cloudsupport.viewer",
+  "stage": "GA",
+  "title": "Support Account Viewer"
+}

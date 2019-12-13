@@ -1,0 +1,16 @@
+{
+  "description": "Read-write access to findings",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get",
+    "securitycenter.findings.group",
+    "securitycenter.findings.list",
+    "securitycenter.findings.listFindingPropertyNames",
+    "securitycenter.findings.update",
+    "securitycenter.sources.get",
+    "securitycenter.sources.list"
+  ],
+  "name": "roles/securitycenter.findingsEditor",
+  "stage": "BETA",
+  "title": "Security Center Findings Editor"
+}

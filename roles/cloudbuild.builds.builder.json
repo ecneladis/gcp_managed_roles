@@ -1,0 +1,28 @@
+{
+  "description": "Can perform builds",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudbuild.builds.create",
+    "cloudbuild.builds.get",
+    "cloudbuild.builds.list",
+    "cloudbuild.builds.update",
+    "logging.logEntries.create",
+    "pubsub.topics.create",
+    "pubsub.topics.publish",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "source.repos.get",
+    "source.repos.list",
+    "storage.buckets.create",
+    "storage.buckets.get",
+    "storage.buckets.list",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.get",
+    "storage.objects.list",
+    "storage.objects.update"
+  ],
+  "name": "roles/cloudbuild.builds.builder",
+  "stage": "GA",
+  "title": "Cloud Build Service Account"
+}

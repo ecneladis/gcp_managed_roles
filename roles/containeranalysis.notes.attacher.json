@@ -1,0 +1,7 @@
+{
+  "description": "Can attach occurrences to notes",
+  "etag": "AA==",
+  "name": "roles/containeranalysis.notes.attacher",
+  "stage": "ALPHA",
+  "title": "Container Analysis Notes Attacher"
+}

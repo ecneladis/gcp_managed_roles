@@ -1,0 +1,17 @@
+{
+  "description": "Ability to create, delete, update, get and list API keys for a project.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "serviceusage.apiKeys.create",
+    "serviceusage.apiKeys.delete",
+    "serviceusage.apiKeys.get",
+    "serviceusage.apiKeys.getProjectForKey",
+    "serviceusage.apiKeys.list",
+    "serviceusage.apiKeys.regenerate",
+    "serviceusage.apiKeys.revert",
+    "serviceusage.apiKeys.update"
+  ],
+  "name": "roles/serviceusage.apiKeysAdmin",
+  "stage": "BETA",
+  "title": "API Keys Admin"
+}

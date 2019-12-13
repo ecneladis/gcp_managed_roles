@@ -1,0 +1,17 @@
+{
+  "description": "Read access to assets, configs, notification streams, scans, and marks",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get",
+    "securitycenter.assets.get",
+    "securitycenter.assets.getFieldNames",
+    "securitycenter.assets.list",
+    "securitycenter.configs.get",
+    "securitycenter.configs.getIamPolicy",
+    "securitycenter.scans.get",
+    "securitycenter.scans.list"
+  ],
+  "name": "roles/securitycenter.viewer",
+  "stage": "BETA",
+  "title": "Security Center Viewer"
+}

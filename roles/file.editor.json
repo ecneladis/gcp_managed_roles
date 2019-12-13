@@ -1,0 +1,20 @@
+{
+  "description": "Read-write access to Filestore instances and related resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "file.instances.create",
+    "file.instances.delete",
+    "file.instances.get",
+    "file.instances.list",
+    "file.instances.update",
+    "file.locations.get",
+    "file.locations.list",
+    "file.operations.cancel",
+    "file.operations.delete",
+    "file.operations.get",
+    "file.operations.list"
+  ],
+  "name": "roles/file.editor",
+  "stage": "BETA",
+  "title": "Cloud Filestore Editor"
+}

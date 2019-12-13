@@ -1,0 +1,18 @@
+{
+  "description": "Admin Read access to security center",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get",
+    "securitycenter.assets.group",
+    "securitycenter.assets.list",
+    "securitycenter.assets.listAssetPropertyNames",
+    "securitycenter.findings.group",
+    "securitycenter.findings.list",
+    "securitycenter.findings.listFindingPropertyNames",
+    "securitycenter.sources.get",
+    "securitycenter.sources.list"
+  ],
+  "name": "roles/securitycenter.adminViewer",
+  "stage": "BETA",
+  "title": "Security Center Admin Viewer"
+}

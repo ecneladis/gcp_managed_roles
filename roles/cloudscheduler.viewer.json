@@ -1,0 +1,14 @@
+{
+  "description": "Get and list access to jobs, executions, and locations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudscheduler.jobs.fullView",
+    "cloudscheduler.jobs.get",
+    "cloudscheduler.jobs.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/cloudscheduler.viewer",
+  "stage": "BETA",
+  "title": "Cloud Scheduler Viewer"
+}

@@ -1,0 +1,18 @@
+{
+  "description": "Full operational access to Dataflow jobs.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dataflow.jobs.cancel",
+    "dataflow.jobs.create",
+    "dataflow.jobs.get",
+    "dataflow.jobs.list",
+    "dataflow.jobs.updateContents",
+    "dataflow.messages.list",
+    "dataflow.metrics.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataflow.developer",
+  "stage": "GA",
+  "title": "Dataflow Developer"
+}
