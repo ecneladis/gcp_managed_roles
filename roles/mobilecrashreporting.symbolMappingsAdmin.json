@@ -1,0 +1,11 @@
+{
+  "description": "Full read/write access to symbol mapping file resources for Firebase Crash Reporting.Deprecated in favor of firebasecrash.symbolMappingsAdmin",
+  "etag": "AA==",
+  "includedPermissions": [
+    "firebase.clients.get",
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/mobilecrashreporting.symbolMappingsAdmin",
+  "stage": "DEPRECATED",
+  "title": "Firebase Crash Symbol Uploader (Deprecated)"
+}

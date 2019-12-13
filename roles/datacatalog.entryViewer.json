@@ -1,0 +1,13 @@
+{
+  "description": "Read access to entries",
+  "etag": "AA==",
+  "includedPermissions": [
+    "datacatalog.entries.get",
+    "datacatalog.entryGroups.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/datacatalog.entryViewer",
+  "stage": "BETA",
+  "title": "DataCatalog Entry Viewer"
+}

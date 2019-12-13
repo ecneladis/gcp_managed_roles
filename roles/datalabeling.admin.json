@@ -31,6 +31,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datalabeling.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "DataLabeling Service Admin"
 }

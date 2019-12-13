@@ -1,0 +1,12 @@
+{
+  "description": "Impersonate service accounts from GKE Workloads",
+  "etag": "AA==",
+  "includedPermissions": [
+    "iam.serviceAccounts.get",
+    "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.list"
+  ],
+  "name": "roles/iam.workloadIdentityUser",
+  "stage": "GA",
+  "title": "Workload Identity User"
+}

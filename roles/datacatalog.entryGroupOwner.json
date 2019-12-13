@@ -1,0 +1,22 @@
+{
+  "description": "Full access to entryGroups",
+  "etag": "AA==",
+  "includedPermissions": [
+    "datacatalog.entries.create",
+    "datacatalog.entries.delete",
+    "datacatalog.entries.get",
+    "datacatalog.entries.getIamPolicy",
+    "datacatalog.entries.setIamPolicy",
+    "datacatalog.entries.update",
+    "datacatalog.entryGroups.create",
+    "datacatalog.entryGroups.delete",
+    "datacatalog.entryGroups.get",
+    "datacatalog.entryGroups.getIamPolicy",
+    "datacatalog.entryGroups.setIamPolicy",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/datacatalog.entryGroupOwner",
+  "stage": "BETA",
+  "title": "DataCatalog entryGroup Owner"
+}

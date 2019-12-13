@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudjobdiscovery.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Admin"
 }

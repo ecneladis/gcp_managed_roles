@@ -1,0 +1,33 @@
+{
+  "description": "Gives Cloud Build service account access to managed resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudbuild.builds.create",
+    "cloudbuild.builds.get",
+    "cloudbuild.builds.list",
+    "cloudbuild.builds.update",
+    "compute.firewalls.get",
+    "compute.firewalls.list",
+    "compute.networks.get",
+    "compute.subnetworks.get",
+    "logging.logEntries.create",
+    "pubsub.topics.create",
+    "pubsub.topics.publish",
+    "remotebuildexecution.blobs.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "source.repos.get",
+    "source.repos.list",
+    "storage.buckets.create",
+    "storage.buckets.get",
+    "storage.buckets.list",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.get",
+    "storage.objects.list",
+    "storage.objects.update"
+  ],
+  "name": "roles/cloudbuild.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Cloud Build Service Agent"
+}

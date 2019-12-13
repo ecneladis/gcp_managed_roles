@@ -9,7 +9,8 @@
     "serviceusage.apiKeys.list",
     "serviceusage.apiKeys.regenerate",
     "serviceusage.apiKeys.revert",
-    "serviceusage.apiKeys.update"
+    "serviceusage.apiKeys.update",
+    "serviceusage.operations.get"
   ],
   "name": "roles/serviceusage.apiKeysAdmin",
   "stage": "BETA",

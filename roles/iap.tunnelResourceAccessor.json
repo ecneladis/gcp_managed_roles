@@ -5,6 +5,6 @@
     "iap.tunnelInstances.accessViaIAP"
   ],
   "name": "roles/iap.tunnelResourceAccessor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "IAP-secured Tunnel User"
 }

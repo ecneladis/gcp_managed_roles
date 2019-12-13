@@ -1,0 +1,11 @@
+{
+  "description": "Can edit container analysis notes",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/containeranalysis.notes.editor",
+  "stage": "ALPHA",
+  "title": "Container Analysis Notes Editor"
+}

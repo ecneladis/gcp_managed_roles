@@ -1,0 +1,11 @@
+{
+  "description": "Access to all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/containeranalysis.admin",
+  "stage": "ALPHA",
+  "title": "Container Analysis Admin"
+}

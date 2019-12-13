@@ -1,0 +1,33 @@
+{
+  "description": "Gives Cloud Functions service account access to managed resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "clientauthconfig.clients.list",
+    "cloudfunctions.functions.invoke",
+    "firebasedatabase.instances.get",
+    "firebasedatabase.instances.update",
+    "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.signBlob",
+    "pubsub.subscriptions.consume",
+    "pubsub.subscriptions.create",
+    "pubsub.subscriptions.delete",
+    "pubsub.subscriptions.get",
+    "pubsub.subscriptions.getIamPolicy",
+    "pubsub.subscriptions.list",
+    "pubsub.subscriptions.setIamPolicy",
+    "pubsub.subscriptions.update",
+    "pubsub.topics.attachSubscription",
+    "pubsub.topics.create",
+    "pubsub.topics.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.getIamPolicy",
+    "serviceusage.quotas.get",
+    "serviceusage.services.disable",
+    "serviceusage.services.enable",
+    "storage.buckets.get",
+    "storage.buckets.update"
+  ],
+  "name": "roles/cloudfunctions.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Cloud Functions Service Agent"
+}

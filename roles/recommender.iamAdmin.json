@@ -1,0 +1,16 @@
+{
+  "description": "Admin of IAM recommendations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "recommender.iamPolicyRecommendations.get",
+    "recommender.iamPolicyRecommendations.list",
+    "recommender.iamPolicyRecommendations.update",
+    "recommender.locations.get",
+    "recommender.locations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/recommender.iamAdmin",
+  "stage": "BETA",
+  "title": "IAM Recommender Admin"
+}

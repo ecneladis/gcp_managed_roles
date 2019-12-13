@@ -5,6 +5,8 @@
     "cloudscheduler.jobs.fullView",
     "cloudscheduler.jobs.get",
     "cloudscheduler.jobs.list",
+    "cloudscheduler.locations.get",
+    "cloudscheduler.locations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

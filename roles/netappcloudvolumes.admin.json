@@ -1,0 +1,31 @@
+{
+  "description": "This role is managed by NetApp, not Google.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "netappcloudvolumes.activeDirectories.create",
+    "netappcloudvolumes.activeDirectories.delete",
+    "netappcloudvolumes.activeDirectories.get",
+    "netappcloudvolumes.activeDirectories.list",
+    "netappcloudvolumes.activeDirectories.update",
+    "netappcloudvolumes.ipRanges.list",
+    "netappcloudvolumes.jobs.get",
+    "netappcloudvolumes.jobs.list",
+    "netappcloudvolumes.regions.list",
+    "netappcloudvolumes.serviceLevels.list",
+    "netappcloudvolumes.snapshots.create",
+    "netappcloudvolumes.snapshots.delete",
+    "netappcloudvolumes.snapshots.get",
+    "netappcloudvolumes.snapshots.list",
+    "netappcloudvolumes.snapshots.update",
+    "netappcloudvolumes.volumes.create",
+    "netappcloudvolumes.volumes.delete",
+    "netappcloudvolumes.volumes.get",
+    "netappcloudvolumes.volumes.list",
+    "netappcloudvolumes.volumes.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/netappcloudvolumes.admin",
+  "stage": "BETA",
+  "title": "NetApp Cloud Volumes Admin"
+}

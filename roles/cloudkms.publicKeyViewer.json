@@ -6,6 +6,6 @@
     "resourcemanager.projects.get"
   ],
   "name": "roles/cloudkms.publicKeyViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud KMS CryptoKey Public Key Viewer"
 }

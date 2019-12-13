@@ -1,0 +1,24 @@
+{
+  "description": "Access to run queries and create datasets",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquery.config.get",
+    "bigquery.datasets.create",
+    "bigquery.datasets.get",
+    "bigquery.datasets.getIamPolicy",
+    "bigquery.jobs.create",
+    "bigquery.jobs.list",
+    "bigquery.models.list",
+    "bigquery.readsessions.create",
+    "bigquery.routines.list",
+    "bigquery.savedqueries.get",
+    "bigquery.savedqueries.list",
+    "bigquery.tables.list",
+    "bigquery.transfers.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/bigquery.user",
+  "stage": "GA",
+  "title": "BigQuery User"
+}

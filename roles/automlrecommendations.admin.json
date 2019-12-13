@@ -1,0 +1,30 @@
+{
+  "description": "Full access to all Recommendations AI resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "automlrecommendations.apiKeys.create",
+    "automlrecommendations.apiKeys.delete",
+    "automlrecommendations.apiKeys.list",
+    "automlrecommendations.catalogItems.create",
+    "automlrecommendations.catalogItems.delete",
+    "automlrecommendations.catalogItems.get",
+    "automlrecommendations.catalogItems.list",
+    "automlrecommendations.catalogItems.update",
+    "automlrecommendations.catalogs.getStats",
+    "automlrecommendations.catalogs.list",
+    "automlrecommendations.eventStores.getStats",
+    "automlrecommendations.events.create",
+    "automlrecommendations.events.list",
+    "automlrecommendations.events.purge",
+    "automlrecommendations.placements.getStats",
+    "automlrecommendations.placements.list",
+    "automlrecommendations.recommendations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/automlrecommendations.admin",
+  "stage": "BETA",
+  "title": "Recommendations AI Admin"
+}

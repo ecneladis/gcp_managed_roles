@@ -4,6 +4,7 @@
   "includedPermissions": [
     "composer.environments.get",
     "composer.environments.list",
+    "composer.imageversions.list",
     "composer.operations.get",
     "composer.operations.list",
     "serviceusage.quotas.get",

@@ -1,0 +1,15 @@
+{
+  "description": "Read only access to Dataflow jobs.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dataflow.jobs.get",
+    "dataflow.jobs.list",
+    "dataflow.messages.list",
+    "dataflow.metrics.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataflow.viewer",
+  "stage": "GA",
+  "title": "Dataflow Viewer"
+}

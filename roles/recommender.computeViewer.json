@@ -1,0 +1,17 @@
+{
+  "description": "Viewer of compute recommendations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "recommender.computeInstanceGroupManagerMachineTypeRecommendations.get",
+    "recommender.computeInstanceGroupManagerMachineTypeRecommendations.list",
+    "recommender.computeInstanceMachineTypeRecommendations.get",
+    "recommender.computeInstanceMachineTypeRecommendations.list",
+    "recommender.locations.get",
+    "recommender.locations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/recommender.computeViewer",
+  "stage": "BETA",
+  "title": "Compute Recommender Viewer"
+}

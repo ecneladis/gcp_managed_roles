@@ -4,6 +4,10 @@
   "includedPermissions": [
     "bigquery.datasets.get",
     "bigquery.datasets.getIamPolicy",
+    "bigquery.models.getMetadata",
+    "bigquery.models.list",
+    "bigquery.routines.get",
+    "bigquery.routines.list",
     "bigquery.tables.get",
     "bigquery.tables.list",
     "resourcemanager.projects.get",

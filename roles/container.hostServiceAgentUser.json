@@ -1,5 +1,5 @@
 {
-  "description": "Use access of the Kubernetes Engine Host Service Agent.",
+  "description": "Gives permission to the Kubernetes Engine Service Account access to the Kugernetes Engine Service Account in the host project to configure shared network resources for cluster management. Also gives access to inspect the firewall rules in the host project.",
   "etag": "AA==",
   "includedPermissions": [
     "compute.firewalls.get",

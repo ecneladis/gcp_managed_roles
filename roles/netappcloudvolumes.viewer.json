@@ -1,0 +1,22 @@
+{
+  "description": "This role is managed by NetApp, not Google.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "netappcloudvolumes.activeDirectories.get",
+    "netappcloudvolumes.activeDirectories.list",
+    "netappcloudvolumes.ipRanges.list",
+    "netappcloudvolumes.jobs.get",
+    "netappcloudvolumes.jobs.list",
+    "netappcloudvolumes.regions.list",
+    "netappcloudvolumes.serviceLevels.list",
+    "netappcloudvolumes.snapshots.get",
+    "netappcloudvolumes.snapshots.list",
+    "netappcloudvolumes.volumes.get",
+    "netappcloudvolumes.volumes.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/netappcloudvolumes.viewer",
+  "stage": "BETA",
+  "title": "NetApp Cloud Volumes Viewer"
+}

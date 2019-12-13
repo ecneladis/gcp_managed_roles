@@ -6,11 +6,12 @@
     "securitycenter.findings.group",
     "securitycenter.findings.list",
     "securitycenter.findings.listFindingPropertyNames",
+    "securitycenter.findings.setState",
     "securitycenter.findings.update",
     "securitycenter.sources.get",
     "securitycenter.sources.list"
   ],
   "name": "roles/securitycenter.findingsEditor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Security Center Findings Editor"
 }

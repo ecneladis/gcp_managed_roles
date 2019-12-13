@@ -1,0 +1,30 @@
+{
+  "description": "Full access to Notebooks all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "notebooks.environments.create",
+    "notebooks.environments.delete",
+    "notebooks.environments.get",
+    "notebooks.environments.getIamPolicy",
+    "notebooks.environments.list",
+    "notebooks.environments.setIamPolicy",
+    "notebooks.instances.create",
+    "notebooks.instances.delete",
+    "notebooks.instances.get",
+    "notebooks.instances.getIamPolicy",
+    "notebooks.instances.list",
+    "notebooks.instances.setIamPolicy",
+    "notebooks.instances.update",
+    "notebooks.locations.get",
+    "notebooks.locations.list",
+    "notebooks.operations.cancel",
+    "notebooks.operations.delete",
+    "notebooks.operations.get",
+    "notebooks.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/notebooks.admin",
+  "stage": "BETA",
+  "title": "Notebooks Admin"
+}

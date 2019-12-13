@@ -1,0 +1,24 @@
+{
+  "description": "Admin Read-write access to security center",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get",
+    "securitycenter.assets.group",
+    "securitycenter.assets.list",
+    "securitycenter.assets.listAssetPropertyNames",
+    "securitycenter.assets.runDiscovery",
+    "securitycenter.assetsecuritymarks.update",
+    "securitycenter.findings.group",
+    "securitycenter.findings.list",
+    "securitycenter.findings.listFindingPropertyNames",
+    "securitycenter.findings.setState",
+    "securitycenter.findings.update",
+    "securitycenter.findingsecuritymarks.update",
+    "securitycenter.sources.get",
+    "securitycenter.sources.list",
+    "securitycenter.sources.update"
+  ],
+  "name": "roles/securitycenter.adminEditor",
+  "stage": "GA",
+  "title": "Security Center Admin Editor"
+}

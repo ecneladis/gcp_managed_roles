@@ -21,6 +21,7 @@
     "pubsub.topics.list",
     "pubsub.topics.publish",
     "pubsub.topics.update",
+    "pubsub.topics.updateTag",
     "resourcemanager.projects.get",
     "serviceusage.quotas.get",
     "serviceusage.services.get",

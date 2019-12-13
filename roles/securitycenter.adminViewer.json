@@ -13,6 +13,6 @@
     "securitycenter.sources.list"
   ],
   "name": "roles/securitycenter.adminViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Security Center Admin Viewer"
 }

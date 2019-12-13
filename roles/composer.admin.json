@@ -7,6 +7,7 @@
     "composer.environments.get",
     "composer.environments.list",
     "composer.environments.update",
+    "composer.imageversions.list",
     "composer.operations.delete",
     "composer.operations.get",
     "composer.operations.list",

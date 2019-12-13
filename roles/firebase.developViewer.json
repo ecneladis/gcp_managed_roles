@@ -84,6 +84,6 @@
     "storage.objects.list"
   ],
   "name": "roles/firebase.developViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Firebase Develop Viewer"
 }

@@ -1,0 +1,21 @@
+{
+  "description": "Gives Cloud Run service account access to managed resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "clientauthconfig.clients.list",
+    "cloudbuild.builds.create",
+    "cloudbuild.builds.get",
+    "iam.serviceAccounts.actAs",
+    "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.signBlob",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.getIamPolicy",
+    "resourcemanager.projects.list",
+    "run.routes.invoke",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/serverless.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Cloud Run Service Agent"
+}

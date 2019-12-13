@@ -1,0 +1,11 @@
+{
+  "description": "Can view container analysis occurrences",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/containeranalysis.occurrences.viewer",
+  "stage": "ALPHA",
+  "title": "Container Analysis Occurrences Viewer"
+}

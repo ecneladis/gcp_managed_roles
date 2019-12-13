@@ -1,0 +1,14 @@
+{
+  "description": "Can create new entries",
+  "etag": "AA==",
+  "includedPermissions": [
+    "datacatalog.entries.create",
+    "datacatalog.entries.get",
+    "datacatalog.entryGroups.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/datacatalog.entryCreator",
+  "stage": "BETA",
+  "title": "DataCatalog Entry Creator"
+}

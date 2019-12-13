@@ -1,0 +1,21 @@
+{
+  "description": "Can view information about billing accounts.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "billing.accounts.get",
+    "billing.accounts.getIamPolicy",
+    "billing.accounts.getPaymentInfo",
+    "billing.accounts.getSpendingInformation",
+    "billing.accounts.getUsageExportSpec",
+    "billing.accounts.list",
+    "billing.budgets.get",
+    "billing.budgets.list",
+    "billing.credits.list",
+    "billing.resourceAssociations.list",
+    "billing.subscriptions.get",
+    "billing.subscriptions.list"
+  ],
+  "name": "roles/billing.viewer",
+  "stage": "GA",
+  "title": "Billing Account Viewer"
+}

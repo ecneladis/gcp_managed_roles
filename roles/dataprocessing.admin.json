@@ -1,0 +1,13 @@
+{
+  "description": "Data processing controls admin who can fully manage data processing controls settings and view all datasource data.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dataprocessing.featurecontrols.get",
+    "dataprocessing.featurecontrols.list",
+    "dataprocessing.featurecontrols.update",
+    "dataprocessing.iamaccesshistory.exportData"
+  ],
+  "name": "roles/dataprocessing.admin",
+  "stage": "BETA",
+  "title": "Data Processing Controls Resource Admin"
+}

@@ -8,6 +8,6 @@
     "securitycenter.assets.listAssetPropertyNames"
   ],
   "name": "roles/securitycenter.assetsViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Security Center Assets Viewer"
 }

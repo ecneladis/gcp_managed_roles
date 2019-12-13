@@ -1,0 +1,13 @@
+{
+  "description": "Gives permission to modify tags on a GCP assets (BigQuery, Pub/Sub etc).",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquery.datasets.updateTag",
+    "bigquery.models.updateTag",
+    "bigquery.tables.updateTag",
+    "pubsub.topics.updateTag"
+  ],
+  "name": "roles/datacatalog.tagEditor",
+  "stage": "BETA",
+  "title": "Data Catalog Tag Editor"
+}

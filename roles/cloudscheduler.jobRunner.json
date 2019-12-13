@@ -1,0 +1,13 @@
+{
+  "description": "Access to run jobs.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudscheduler.jobs.fullView",
+    "cloudscheduler.jobs.run",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/cloudscheduler.jobRunner",
+  "stage": "BETA",
+  "title": "Cloud Scheduler Job Runner"
+}

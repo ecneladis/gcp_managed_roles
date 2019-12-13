@@ -9,6 +9,7 @@
     "logging.logEntries.create",
     "pubsub.topics.create",
     "pubsub.topics.publish",
+    "remotebuildexecution.blobs.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "source.repos.get",
