@@ -5,7 +5,6 @@
     "bigquery.datasets.updateTag",
     "bigquery.models.updateTag",
     "bigquery.tables.updateTag",
-    "datacatalog.entries.updateTag",
     "pubsub.topics.updateTag"
   ],
   "name": "roles/datacatalog.tagEditor",

@@ -6,7 +6,6 @@
     "bigquery.models.getMetadata",
     "bigquery.tables.get",
     "datacatalog.entries.get",
-    "datacatalog.entries.list",
     "datacatalog.entryGroups.get",
     "datacatalog.tagTemplates.get",
     "datacatalog.tagTemplates.getTag",
