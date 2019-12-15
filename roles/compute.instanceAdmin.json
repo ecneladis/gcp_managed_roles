@@ -89,7 +89,6 @@
     "compute.instances.startWithEncryptionKey",
     "compute.instances.stop",
     "compute.instances.suspend",
-    "compute.instances.update",
     "compute.instances.updateAccessConfig",
     "compute.instances.updateDisplayDevice",
     "compute.instances.updateNetworkInterface",

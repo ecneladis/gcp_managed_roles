@@ -6,6 +6,8 @@
     "compute.regions.get",
     "compute.regions.list",
     "compute.zones.get",
+    "dataproc.autoscalingPolicies.get",
+    "dataproc.autoscalingPolicies.list",
     "dataproc.clusters.get",
     "dataproc.clusters.list",
     "dataproc.jobs.get",
