@@ -1613,7 +1613,7 @@
     "description": "Access to target networks with DNS peering zones",
     "etag": "AA==",
     "name": "roles/dns.peer",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "DNS Peer"
   },
   {

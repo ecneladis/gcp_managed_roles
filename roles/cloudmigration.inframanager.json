@@ -44,7 +44,6 @@
     "compute.instances.start",
     "compute.instances.startWithEncryptionKey",
     "compute.instances.stop",
-    "compute.instances.update",
     "compute.instances.updateNetworkInterface",
     "compute.instances.updateShieldedInstanceConfig",
     "compute.instances.use",

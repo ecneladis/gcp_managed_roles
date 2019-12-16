@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.computeViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Compute Recommender Viewer"
 }
