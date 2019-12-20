@@ -1,5 +1,5 @@
 {
-  "description": "Full access to all Cloud Security Scanner resources",
+  "description": "Full access to all Web Security Scanner resources",
   "etag": "AA==",
   "includedPermissions": [
     "appengine.applications.get",
@@ -25,5 +25,5 @@
   ],
   "name": "roles/cloudsecurityscanner.editor",
   "stage": "GA",
-  "title": "Cloud Security Scanner Editor"
+  "title": "Web Security Scanner Editor"
 }

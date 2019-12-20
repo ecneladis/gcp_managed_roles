@@ -5,6 +5,6 @@
     "dns.networks.targetWithPeeringZone"
   ],
   "name": "roles/dns.peer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "DNS Peer"
 }

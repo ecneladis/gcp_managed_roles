@@ -2,10 +2,12 @@
   "description": "Access to run jobs.",
   "etag": "AA==",
   "includedPermissions": [
+    "appengine.applications.get",
     "cloudscheduler.jobs.fullView",
     "cloudscheduler.jobs.run",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "serviceusage.services.get"
   ],
   "name": "roles/cloudscheduler.jobRunner",
   "stage": "BETA",

@@ -224,7 +224,7 @@
     "title": "Access Transparency Admin"
   },
   {
-    "description": "Full access to all datasets and their contents",
+    "description": "Administer all BigQuery resources and data",
     "etag": "AA==",
     "name": "roles/bigquery.admin",
     "stage": "GA",
@@ -737,25 +737,25 @@
     "title": "Cloud Scheduler Viewer"
   },
   {
-    "description": "Full access to all Cloud Security Scanner resources",
+    "description": "Full access to all Web Security Scanner resources",
     "etag": "AA==",
     "name": "roles/cloudsecurityscanner.editor",
     "stage": "GA",
-    "title": "Cloud Security Scanner Editor"
+    "title": "Web Security Scanner Editor"
   },
   {
     "description": "Read access to Scan and ScanRun, plus the ability to start scans",
     "etag": "AA==",
     "name": "roles/cloudsecurityscanner.runner",
     "stage": "GA",
-    "title": "Cloud Security Scanner Runner"
+    "title": "Web Security Scanner Runner"
   },
   {
-    "description": "Read access to all Cloud Security Scanner resources",
+    "description": "Read access to all Web Security Scanner resources",
     "etag": "AA==",
     "name": "roles/cloudsecurityscanner.viewer",
     "stage": "GA",
-    "title": "Cloud Security Scanner Viewer"
+    "title": "Web Security Scanner Viewer"
   },
   {
     "description": "Full control of Cloud SQL resources.",
@@ -1068,14 +1068,14 @@
     "description": "Specify resources to be mirrored.",
     "etag": "AA==",
     "name": "roles/compute.packetMirroringAdmin",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Compute packet mirroring admin"
   },
   {
     "description": "Use Compute Engine packet mirrorings.",
     "etag": "AA==",
     "name": "roles/compute.packetMirroringUser",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Compute packet mirroring user"
   },
   {
@@ -2579,28 +2579,28 @@
     "description": "Admin of compute recommendations.",
     "etag": "AA==",
     "name": "roles/recommender.computeAdmin",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Compute Recommender Admin"
   },
   {
     "description": "Viewer of compute recommendations.",
     "etag": "AA==",
     "name": "roles/recommender.computeViewer",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Compute Recommender Viewer"
   },
   {
     "description": "Admin of IAM recommendations.",
     "etag": "AA==",
     "name": "roles/recommender.iamAdmin",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "IAM Recommender Admin"
   },
   {
     "description": "Viewer of IAM recommendations.",
     "etag": "AA==",
     "name": "roles/recommender.iamViewer",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "IAM Recommender Viewer"
   },
   {
@@ -2686,6 +2686,13 @@
     "name": "roles/remotebuildexecution.logstreamWriter",
     "stage": "BETA",
     "title": "Remote Build Execution Logstream Writer"
+  },
+  {
+    "description": "Remote Build Execution Reservation Admin",
+    "etag": "AA==",
+    "name": "roles/remotebuildexecution.reservationAdmin",
+    "stage": "BETA",
+    "title": "Remote Build Execution Reservation Admin"
   },
   {
     "description": "Remote Build Execution Worker",
@@ -2821,25 +2828,25 @@
     "title": "Cloud RuntimeConfig Admin"
   },
   {
-    "description": "Full access to administrate Cloud Secrets resources.",
+    "description": "Full access to administrate Secret Manager resources.",
     "etag": "AA==",
     "name": "roles/secretmanager.admin",
     "stage": "BETA",
-    "title": "Cloud Secrets Admin"
+    "title": "Secret Manager Admin"
   },
   {
     "description": "Allows accessing the payload of secrets.",
     "etag": "AA==",
     "name": "roles/secretmanager.secretAccessor",
     "stage": "BETA",
-    "title": "Cloud Secrets secret accessor"
+    "title": "Secret Manager Secret Accessor"
   },
   {
-    "description": "Allows viewing metadata of all Cloud Secrets resources",
+    "description": "Allows viewing metadata of all Secret Manager resources",
     "etag": "AA==",
     "name": "roles/secretmanager.viewer",
     "stage": "BETA",
-    "title": "Cloud Secrets Viewer"
+    "title": "Secret Manager Viewer"
   },
   {
     "description": "Admin(super user) access to security center",

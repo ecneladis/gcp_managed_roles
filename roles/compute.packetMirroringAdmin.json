@@ -12,6 +12,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/compute.packetMirroringAdmin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Compute packet mirroring admin"
 }

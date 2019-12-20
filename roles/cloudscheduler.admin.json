@@ -2,6 +2,7 @@
   "description": "Full access to jobs and executions.",
   "etag": "AA==",
   "includedPermissions": [
+    "appengine.applications.get",
     "cloudscheduler.jobs.create",
     "cloudscheduler.jobs.delete",
     "cloudscheduler.jobs.enable",
@@ -14,7 +15,8 @@
     "cloudscheduler.locations.get",
     "cloudscheduler.locations.list",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "serviceusage.services.get"
   ],
   "name": "roles/cloudscheduler.admin",
   "stage": "BETA",

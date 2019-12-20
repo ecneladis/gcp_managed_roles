@@ -2,13 +2,15 @@
   "description": "Get and list access to jobs, executions, and locations.",
   "etag": "AA==",
   "includedPermissions": [
+    "appengine.applications.get",
     "cloudscheduler.jobs.fullView",
     "cloudscheduler.jobs.get",
     "cloudscheduler.jobs.list",
     "cloudscheduler.locations.get",
     "cloudscheduler.locations.list",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "serviceusage.services.get"
   ],
   "name": "roles/cloudscheduler.viewer",
   "stage": "BETA",

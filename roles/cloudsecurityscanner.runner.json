@@ -12,5 +12,5 @@
   ],
   "name": "roles/cloudsecurityscanner.runner",
   "stage": "GA",
-  "title": "Cloud Security Scanner Runner"
+  "title": "Web Security Scanner Runner"
 }
