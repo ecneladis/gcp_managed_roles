@@ -2415,6 +2415,18 @@
     "title": "Monitoring AlertPolicy Viewer"
   },
   {
+    "description": "Read/write access to dashboard configurations.",
+    "etag": "AA==",
+    "name": "roles/monitoring.dashboardEditor",
+    "title": "Monitoring Dashboard Configuration Editor"
+  },
+  {
+    "description": "Read-only access to dashboard configurations.",
+    "etag": "AA==",
+    "name": "roles/monitoring.dashboardViewer",
+    "title": "Monitoring Dashboard Configuration Viewer"
+  },
+  {
     "description": "Read/write access to all monitoring data and configuration.",
     "etag": "AA==",
     "name": "roles/monitoring.editor",
@@ -2476,6 +2488,18 @@
     "name": "roles/netappcloudvolumes.viewer",
     "stage": "BETA",
     "title": "NetApp Cloud Volumes Viewer"
+  },
+  {
+    "description": "Full access to Cloud Network Management resources.",
+    "etag": "AA==",
+    "name": "roles/networkmanagement.admin",
+    "title": "Cloud Network Management Admin"
+  },
+  {
+    "description": "Read-only access to Cloud Network Management resources.",
+    "etag": "AA==",
+    "name": "roles/networkmanagement.viewer",
+    "title": "Cloud Network Management Viewer"
   },
   {
     "description": "Full access to Notebooks all resources.",
