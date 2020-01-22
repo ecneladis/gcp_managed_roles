@@ -21,6 +21,7 @@
     "compute.interconnects.use",
     "compute.networks.get",
     "compute.networks.list",
+    "compute.networks.listPeeringRoutes",
     "compute.networks.use",
     "compute.networks.useExternalIp",
     "compute.projects.get",

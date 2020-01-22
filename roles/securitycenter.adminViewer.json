@@ -9,6 +9,8 @@
     "securitycenter.findings.group",
     "securitycenter.findings.list",
     "securitycenter.findings.listFindingPropertyNames",
+    "securitycenter.notificationconfig.get",
+    "securitycenter.notificationconfig.list",
     "securitycenter.sources.get",
     "securitycenter.sources.list"
   ],

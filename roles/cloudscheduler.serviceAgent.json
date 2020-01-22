@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.getOpenIdToken",
     "logging.logEntries.create",
     "pubsub.topics.publish"
   ],

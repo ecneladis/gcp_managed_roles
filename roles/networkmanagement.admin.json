@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Cloud Network Management resources.",
+  "description": "Full access to Network Management resources.",
   "etag": "AA==",
   "includedPermissions": [
     "networkmanagement.connectivitytests.create",
@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkmanagement.admin",
-  "stage": "ALPHA",
-  "title": "Cloud Network Management Admin"
+  "stage": "BETA",
+  "title": "Network Management Admin"
 }

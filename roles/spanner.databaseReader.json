@@ -6,6 +6,7 @@
     "spanner.databases.getDdl",
     "spanner.databases.read",
     "spanner.databases.select",
+    "spanner.instances.get",
     "spanner.sessions.create",
     "spanner.sessions.delete",
     "spanner.sessions.get",

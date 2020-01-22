@@ -106,6 +106,7 @@
     "compute.networks.addPeering",
     "compute.networks.get",
     "compute.networks.list",
+    "compute.networks.listPeeringRoutes",
     "compute.networks.removePeering",
     "compute.networks.update",
     "compute.projects.get",

@@ -6,6 +6,6 @@
     "monitoring.dashboards.list"
   ],
   "name": "roles/monitoring.dashboardViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Monitoring Dashboard Configuration Viewer"
 }

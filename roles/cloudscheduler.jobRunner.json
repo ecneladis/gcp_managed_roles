@@ -7,7 +7,8 @@
     "cloudscheduler.jobs.run",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "serviceusage.services.get"
+    "serviceusage.services.get",
+    "serviceusage.services.list"
   ],
   "name": "roles/cloudscheduler.jobRunner",
   "stage": "BETA",

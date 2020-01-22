@@ -7,6 +7,7 @@
     "cloudbuild.builds.get",
     "iam.serviceAccounts.actAs",
     "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.getOpenIdToken",
     "iam.serviceAccounts.signBlob",
     "resourcemanager.projects.get",
     "resourcemanager.projects.getIamPolicy",

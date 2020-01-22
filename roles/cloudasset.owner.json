@@ -99,6 +99,6 @@
     "cloudasset.feeds.update"
   ],
   "name": "roles/cloudasset.owner",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Asset Owner"
 }

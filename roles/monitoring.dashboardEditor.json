@@ -9,6 +9,6 @@
     "monitoring.dashboards.update"
   ],
   "name": "roles/monitoring.dashboardEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Monitoring Dashboard Configuration Editor"
 }

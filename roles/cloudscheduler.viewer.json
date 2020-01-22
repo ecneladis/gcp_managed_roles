@@ -10,7 +10,8 @@
     "cloudscheduler.locations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "serviceusage.services.get"
+    "serviceusage.services.get",
+    "serviceusage.services.list"
   ],
   "name": "roles/cloudscheduler.viewer",
   "stage": "BETA",

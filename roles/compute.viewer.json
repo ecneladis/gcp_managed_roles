@@ -79,6 +79,7 @@
     "compute.networkEndpointGroups.list",
     "compute.networks.get",
     "compute.networks.list",
+    "compute.networks.listPeeringRoutes",
     "compute.nodeGroups.get",
     "compute.nodeGroups.getIamPolicy",
     "compute.nodeGroups.list",

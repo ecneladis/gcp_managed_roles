@@ -23,6 +23,7 @@
     "compute.disks.update",
     "compute.disks.use",
     "compute.disks.useReadOnly",
+    "compute.globalOperations.get",
     "compute.images.get",
     "compute.images.list",
     "compute.images.useReadOnly",

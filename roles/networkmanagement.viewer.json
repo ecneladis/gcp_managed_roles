@@ -1,5 +1,5 @@
 {
-  "description": "Read-only access to Cloud Network Management resources.",
+  "description": "Read-only access to Network Management resources.",
   "etag": "AA==",
   "includedPermissions": [
     "networkmanagement.connectivitytests.get",
@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkmanagement.viewer",
-  "stage": "ALPHA",
-  "title": "Cloud Network Management Viewer"
+  "stage": "BETA",
+  "title": "Network Management Viewer"
 }

@@ -161,6 +161,34 @@
     "title": "App Engine Service Admin"
   },
   {
+    "description": "Administrator access to create and manage repositories.",
+    "etag": "AA==",
+    "name": "roles/artifactregistry.admin",
+    "stage": "BETA",
+    "title": "Artifact Registry Administrator"
+  },
+  {
+    "description": "Access to read repository items.",
+    "etag": "AA==",
+    "name": "roles/artifactregistry.reader",
+    "stage": "BETA",
+    "title": "Artifact Registry Reader"
+  },
+  {
+    "description": "Access to manage artifacts in repositories.",
+    "etag": "AA==",
+    "name": "roles/artifactregistry.repoAdmin",
+    "stage": "BETA",
+    "title": "Artifact Registry Repository Administrator"
+  },
+  {
+    "description": "Access to read and write repository items.",
+    "etag": "AA==",
+    "name": "roles/artifactregistry.writer",
+    "stage": "BETA",
+    "title": "Artifact Registry Writer"
+  },
+  {
     "description": "Full access to all AutoML resources",
     "etag": "AA==",
     "name": "roles/automl.admin",
@@ -428,8 +456,14 @@
     "description": "Full access to cloud assets metadata",
     "etag": "AA==",
     "name": "roles/cloudasset.owner",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Cloud Asset Owner"
+  },
+  {
+    "description": "Gives Cloud Asset service agent permissions to Cloud Storage and BigQuery for exporting Assets, and permission to publish to Cloud Pub/Sub topics for Asset Real Time Feed.",
+    "etag": "AA==",
+    "name": "roles/cloudasset.serviceAgent",
+    "title": "Cloud Asset Service Agent"
   },
   {
     "description": "Read only access to cloud assets metadata",
@@ -1204,13 +1238,6 @@
     "name": "roles/datacatalog.categoryFineGrainedReader",
     "stage": "BETA",
     "title": "Fine-Grained Reader"
-  },
-  {
-    "description": "Can create new entries",
-    "etag": "AA==",
-    "name": "roles/datacatalog.entryCreator",
-    "stage": "BETA",
-    "title": "DataCatalog Entry Creator"
   },
   {
     "description": "Can create new entryGroups",
@@ -2418,12 +2445,14 @@
     "description": "Read/write access to dashboard configurations.",
     "etag": "AA==",
     "name": "roles/monitoring.dashboardEditor",
+    "stage": "BETA",
     "title": "Monitoring Dashboard Configuration Editor"
   },
   {
     "description": "Read-only access to dashboard configurations.",
     "etag": "AA==",
     "name": "roles/monitoring.dashboardViewer",
+    "stage": "BETA",
     "title": "Monitoring Dashboard Configuration Viewer"
   },
   {
@@ -2490,16 +2519,18 @@
     "title": "NetApp Cloud Volumes Viewer"
   },
   {
-    "description": "Full access to Cloud Network Management resources.",
+    "description": "Full access to Network Management resources.",
     "etag": "AA==",
     "name": "roles/networkmanagement.admin",
-    "title": "Cloud Network Management Admin"
+    "stage": "BETA",
+    "title": "Network Management Admin"
   },
   {
-    "description": "Read-only access to Cloud Network Management resources.",
+    "description": "Read-only access to Network Management resources.",
     "etag": "AA==",
     "name": "roles/networkmanagement.viewer",
-    "title": "Cloud Network Management Viewer"
+    "stage": "BETA",
+    "title": "Network Management Viewer"
   },
   {
     "description": "Full access to Notebooks all resources.",
@@ -2941,6 +2972,18 @@
     "name": "roles/securitycenter.findingsViewer",
     "stage": "GA",
     "title": "Security Center Findings Viewer"
+  },
+  {
+    "description": "Write access to notification configurations",
+    "etag": "AA==",
+    "name": "roles/securitycenter.notificationConfigEditor",
+    "title": "Security Center Notification Configurations Editor"
+  },
+  {
+    "description": "Read access to notification configurations",
+    "etag": "AA==",
+    "name": "roles/securitycenter.notificationConfigViewer",
+    "title": "Security Center Notification Configurations Viewer"
   },
   {
     "description": "Admin access to sources",
