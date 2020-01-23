@@ -1966,6 +1966,18 @@
     "title": "Firebase Rules Viewer"
   },
   {
+    "description": "Full access to Game Services API and related resources.",
+    "etag": "AA==",
+    "name": "roles/gameservices.admin",
+    "title": "Game Services API Admin"
+  },
+  {
+    "description": "Read-only access to Game Services API and related resources.",
+    "etag": "AA==",
+    "name": "roles/gameservices.viewer",
+    "title": "Game Services API Viewer"
+  },
+  {
     "description": "Full access to genomics datasets and operations.",
     "etag": "AA==",
     "name": "roles/genomics.admin",
@@ -2547,6 +2559,12 @@
     "title": "Notebooks Viewer"
   },
   {
+    "description": "Write-only access to resource metadata. This provides exactly the permissions needed by the Ops Config Monitoring metadata agent and other systems that send metadata.",
+    "etag": "AA==",
+    "name": "roles/opsconfigmonitoring.resourceMetadata.writer",
+    "title": "Ops Config Monitoring Resource Metadata Writer"
+  },
+  {
     "description": "The permission to set Organization Policies on resources.",
     "etag": "AA==",
     "name": "roles/orgpolicy.policyAdmin",
@@ -2977,12 +2995,14 @@
     "description": "Write access to notification configurations",
     "etag": "AA==",
     "name": "roles/securitycenter.notificationConfigEditor",
+    "stage": "GA",
     "title": "Security Center Notification Configurations Editor"
   },
   {
     "description": "Read access to notification configurations",
     "etag": "AA==",
     "name": "roles/securitycenter.notificationConfigViewer",
+    "stage": "GA",
     "title": "Security Center Notification Configurations Viewer"
   },
   {

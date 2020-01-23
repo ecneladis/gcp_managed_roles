@@ -22,6 +22,6 @@
     "artifactregistry.versions.list"
   ],
   "name": "roles/artifactregistry.repoAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Artifact Registry Repository Administrator"
 }

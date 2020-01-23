@@ -9,6 +9,6 @@
     "securitycenter.notificationconfig.update"
   ],
   "name": "roles/securitycenter.notificationConfigEditor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Notification Configurations Editor"
 }

@@ -18,6 +18,6 @@
     "artifactregistry.versions.list"
   ],
   "name": "roles/artifactregistry.writer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Artifact Registry Writer"
 }

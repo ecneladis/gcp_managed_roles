@@ -6,6 +6,6 @@
     "securitycenter.notificationconfig.list"
   ],
   "name": "roles/securitycenter.notificationConfigViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Notification Configurations Viewer"
 }
