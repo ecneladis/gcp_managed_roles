@@ -1969,12 +1969,14 @@
     "description": "Full access to Game Services API and related resources.",
     "etag": "AA==",
     "name": "roles/gameservices.admin",
+    "stage": "BETA",
     "title": "Game Services API Admin"
   },
   {
     "description": "Read-only access to Game Services API and related resources.",
     "etag": "AA==",
     "name": "roles/gameservices.viewer",
+    "stage": "BETA",
     "title": "Game Services API Viewer"
   },
   {
@@ -2562,6 +2564,7 @@
     "description": "Write-only access to resource metadata. This provides exactly the permissions needed by the Ops Config Monitoring metadata agent and other systems that send metadata.",
     "etag": "AA==",
     "name": "roles/opsconfigmonitoring.resourceMetadata.writer",
+    "stage": "BETA",
     "title": "Ops Config Monitoring Resource Metadata Writer"
   },
   {

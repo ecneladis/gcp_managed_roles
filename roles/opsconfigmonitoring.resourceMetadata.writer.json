@@ -5,6 +5,6 @@
     "opsconfigmonitoring.resourceMetadata.write"
   ],
   "name": "roles/opsconfigmonitoring.resourceMetadata.writer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Ops Config Monitoring Resource Metadata Writer"
 }
