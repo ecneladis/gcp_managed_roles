@@ -1,0 +1,13 @@
+{
+  "description": "Access to view reCAPTCHA Enterprise keys",
+  "etag": "AA==",
+  "includedPermissions": [
+    "recaptchaenterprise.keys.get",
+    "recaptchaenterprise.keys.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/recaptchaenterprise.viewer",
+  "stage": "BETA",
+  "title": "reCAPTCHA Enterprise Viewer"
+}

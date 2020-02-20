@@ -5,6 +5,7 @@
     "healthcare.datasets.get",
     "healthcare.datasets.list",
     "healthcare.fhirResources.get",
+    "healthcare.fhirStores.executeBundle",
     "healthcare.fhirStores.get",
     "healthcare.fhirStores.list",
     "healthcare.fhirStores.searchResources",

@@ -14,6 +14,7 @@
     "datacatalog.entryGroups.delete",
     "datacatalog.entryGroups.get",
     "datacatalog.entryGroups.getIamPolicy",
+    "datacatalog.entryGroups.list",
     "datacatalog.entryGroups.setIamPolicy",
     "datacatalog.entryGroups.update",
     "resourcemanager.projects.get",

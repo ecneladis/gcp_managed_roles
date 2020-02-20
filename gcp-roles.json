@@ -827,6 +827,20 @@
     "title": "Support Account Administrator"
   },
   {
+    "description": "Full read-write access to technical support cases (Premium Customer Care only).",
+    "etag": "AA==",
+    "name": "roles/cloudsupport.techSupportEditor",
+    "stage": "GA",
+    "title": "Tech Support Editor"
+  },
+  {
+    "description": "Read-only access to technical support cases (Premium Customer Care only).",
+    "etag": "AA==",
+    "name": "roles/cloudsupport.techSupportViewer",
+    "stage": "GA",
+    "title": "Tech Support Viewer"
+  },
+  {
     "description": "Read-only access to details of a support account. This does not allow viewing cases.",
     "etag": "AA==",
     "name": "roles/cloudsupport.viewer",
@@ -2652,6 +2666,27 @@
     "title": "Pub/Sub Viewer"
   },
   {
+    "description": "Access to view and modify reCAPTCHA Enterprise keys",
+    "etag": "AA==",
+    "name": "roles/recaptchaenterprise.admin",
+    "stage": "BETA",
+    "title": "reCAPTCHA Enterprise Admin"
+  },
+  {
+    "description": "Access to create and annotate reCAPTCHA Enterprise assessments",
+    "etag": "AA==",
+    "name": "roles/recaptchaenterprise.agent",
+    "stage": "BETA",
+    "title": "reCAPTCHA Enterprise Agent"
+  },
+  {
+    "description": "Access to view reCAPTCHA Enterprise keys",
+    "etag": "AA==",
+    "name": "roles/recaptchaenterprise.viewer",
+    "stage": "BETA",
+    "title": "reCAPTCHA Enterprise Viewer"
+  },
+  {
     "description": "Admin of compute recommendations.",
     "etag": "AA==",
     "name": "roles/recommender.computeAdmin",
@@ -2907,21 +2942,21 @@
     "description": "Full access to administrate Secret Manager resources.",
     "etag": "AA==",
     "name": "roles/secretmanager.admin",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Secret Manager Admin"
   },
   {
     "description": "Allows accessing the payload of secrets.",
     "etag": "AA==",
     "name": "roles/secretmanager.secretAccessor",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Secret Manager Secret Accessor"
   },
   {
     "description": "Allows viewing metadata of all Secret Manager resources",
     "etag": "AA==",
     "name": "roles/secretmanager.viewer",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Secret Manager Viewer"
   },
   {

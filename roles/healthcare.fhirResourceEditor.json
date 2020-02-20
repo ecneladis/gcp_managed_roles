@@ -9,6 +9,7 @@
     "healthcare.fhirResources.get",
     "healthcare.fhirResources.patch",
     "healthcare.fhirResources.update",
+    "healthcare.fhirStores.executeBundle",
     "healthcare.fhirStores.get",
     "healthcare.fhirStores.list",
     "healthcare.fhirStores.searchResources",
