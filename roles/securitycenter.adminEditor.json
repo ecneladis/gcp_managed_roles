@@ -36,6 +36,7 @@
     "securitycenter.notificationconfig.get",
     "securitycenter.notificationconfig.list",
     "securitycenter.notificationconfig.update",
+    "securitycenter.organizationsettings.get",
     "securitycenter.sources.get",
     "securitycenter.sources.list",
     "securitycenter.sources.update",

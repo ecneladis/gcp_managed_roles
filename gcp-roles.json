@@ -309,8 +309,14 @@
     "description": "Access to create and use read sessions",
     "etag": "AA==",
     "name": "roles/bigquery.readSessionUser",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "BigQuery Read Session User"
+  },
+  {
+    "description": "Administer all BigQuery resources.",
+    "etag": "AA==",
+    "name": "roles/bigquery.resourceAdmin",
+    "title": "BigQuery Resource Admin"
   },
   {
     "description": "Access to run queries and create datasets",
@@ -3099,6 +3105,27 @@
     "title": "Viewer of Tenancy Units"
   },
   {
+    "description": "Full control of all Service Directory resources and permissions.",
+    "etag": "AA==",
+    "name": "roles/servicedirectory.admin",
+    "stage": "EAP",
+    "title": "Service Directory Admin"
+  },
+  {
+    "description": "Edit Service Directory resources.",
+    "etag": "AA==",
+    "name": "roles/servicedirectory.editor",
+    "stage": "EAP",
+    "title": "Service Directory Editor"
+  },
+  {
+    "description": "View Service Directory resources.",
+    "etag": "AA==",
+    "name": "roles/servicedirectory.viewer",
+    "stage": "EAP",
+    "title": "Service Directory Viewer"
+  },
+  {
     "description": "Full control of Google Service Management resources.",
     "etag": "AA==",
     "name": "roles/servicemanagement.admin",
@@ -3211,6 +3238,20 @@
     "title": "Cloud Spanner Admin"
   },
   {
+    "description": "Administrator role to manage Cloud Spanner backups. Does not include permissions to restore from Cloud Spanner backups.",
+    "etag": "AA==",
+    "name": "roles/spanner.backupAdmin",
+    "stage": "GA",
+    "title": "Cloud Spanner Backup Admin"
+  },
+  {
+    "description": "Role with limited permissions to create and manage Cloud Spanner backups. Does not have permission to modify backups.",
+    "etag": "AA==",
+    "name": "roles/spanner.backupWriter",
+    "stage": "GA",
+    "title": "Cloud Spanner Backup Writer"
+  },
+  {
     "description": "Full control of Cloud Spanner databases.",
     "etag": "AA==",
     "name": "roles/spanner.databaseAdmin",
@@ -3230,6 +3271,13 @@
     "name": "roles/spanner.databaseUser",
     "stage": "GA",
     "title": "Cloud Spanner Database User"
+  },
+  {
+    "description": "Administrator role to restore Cloud Spanner databases from Cloud Spanner backups.",
+    "etag": "AA==",
+    "name": "roles/spanner.restoreAdmin",
+    "stage": "GA",
+    "title": "Cloud Spanner Restore Admin"
   },
   {
     "description": "Viewer access to Cloud Spanner resources.",

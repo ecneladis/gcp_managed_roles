@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "compute.networks.list",
+    "redis.instances.failover",
     "redis.instances.get",
     "redis.instances.list",
     "redis.instances.update",

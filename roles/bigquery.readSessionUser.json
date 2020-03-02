@@ -3,10 +3,12 @@
   "etag": "AA==",
   "includedPermissions": [
     "bigquery.readsessions.create",
+    "bigquery.readsessions.getData",
+    "bigquery.readsessions.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/bigquery.readSessionUser",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "BigQuery Read Session User"
 }

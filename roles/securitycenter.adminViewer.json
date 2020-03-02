@@ -19,6 +19,7 @@
     "securitycenter.findings.listFindingPropertyNames",
     "securitycenter.notificationconfig.get",
     "securitycenter.notificationconfig.list",
+    "securitycenter.organizationsettings.get",
     "securitycenter.sources.get",
     "securitycenter.sources.list",
     "serviceusage.quotas.get",

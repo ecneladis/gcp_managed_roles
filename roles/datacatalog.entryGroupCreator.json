@@ -4,6 +4,7 @@
   "includedPermissions": [
     "datacatalog.entryGroups.create",
     "datacatalog.entryGroups.get",
+    "datacatalog.entryGroups.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
