@@ -7,6 +7,8 @@
     "servicedirectory.endpoints.get",
     "servicedirectory.endpoints.getIamPolicy",
     "servicedirectory.endpoints.list",
+    "servicedirectory.locations.get",
+    "servicedirectory.locations.list",
     "servicedirectory.namespaces.get",
     "servicedirectory.namespaces.getIamPolicy",
     "servicedirectory.namespaces.list",
@@ -16,6 +18,6 @@
     "servicedirectory.services.resolve"
   ],
   "name": "roles/servicedirectory.viewer",
-  "stage": "EAP",
+  "stage": "BETA",
   "title": "Service Directory Viewer"
 }

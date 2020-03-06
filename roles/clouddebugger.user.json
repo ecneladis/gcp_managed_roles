@@ -1,5 +1,5 @@
 {
-  "description": "User Access to Stackdriver Debugger.  Can create, delete and view snapshots and logpoints.",
+  "description": "User Access to Cloud Debugger.  Can create, delete and view snapshots and logpoints.",
   "etag": "AA==",
   "includedPermissions": [
     "clouddebugger.breakpoints.create",
@@ -10,5 +10,5 @@
   ],
   "name": "roles/clouddebugger.user",
   "stage": "BETA",
-  "title": "Stackdriver Debugger User"
+  "title": "Cloud Debugger User"
 }

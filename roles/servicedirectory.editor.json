@@ -10,6 +10,8 @@
     "servicedirectory.endpoints.getIamPolicy",
     "servicedirectory.endpoints.list",
     "servicedirectory.endpoints.update",
+    "servicedirectory.locations.get",
+    "servicedirectory.locations.list",
     "servicedirectory.namespaces.associatePrivateZone",
     "servicedirectory.namespaces.create",
     "servicedirectory.namespaces.delete",
@@ -26,6 +28,6 @@
     "servicedirectory.services.update"
   ],
   "name": "roles/servicedirectory.editor",
-  "stage": "EAP",
+  "stage": "BETA",
   "title": "Service Directory Editor"
 }

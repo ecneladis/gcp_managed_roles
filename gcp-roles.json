@@ -316,6 +316,7 @@
     "description": "Administer all BigQuery resources.",
     "etag": "AA==",
     "name": "roles/bigquery.resourceAdmin",
+    "stage": "BETA",
     "title": "BigQuery Resource Admin"
   },
   {
@@ -520,18 +521,18 @@
     "title": "Firebase Remote Config Viewer"
   },
   {
-    "description": "Stackdriver Debugger agents are allowed to register and provide debug snapshot data.",
+    "description": "Cloud Debugger agents are allowed to register and provide debug snapshot data.",
     "etag": "AA==",
     "name": "roles/clouddebugger.agent",
     "stage": "BETA",
-    "title": "Stackdriver Debugger Agent"
+    "title": "Cloud Debugger Agent"
   },
   {
-    "description": "User Access to Stackdriver Debugger.  Can create, delete and view snapshots and logpoints.",
+    "description": "User Access to Cloud Debugger.  Can create, delete and view snapshots and logpoints.",
     "etag": "AA==",
     "name": "roles/clouddebugger.user",
     "stage": "BETA",
-    "title": "Stackdriver Debugger User"
+    "title": "Cloud Debugger User"
   },
   {
     "description": "Full access to functions, operations and locations.",
@@ -2301,6 +2302,20 @@
     "title": "IAP-secured Tunnel User"
   },
   {
+    "description": "Full access to Identity Platform resources.",
+    "etag": "AA==",
+    "name": "roles/identityplatform.admin",
+    "stage": "BETA",
+    "title": "Identity Platform Admin"
+  },
+  {
+    "description": "Read access to Identity Platform resources.",
+    "etag": "AA==",
+    "name": "roles/identityplatform.viewer",
+    "stage": "BETA",
+    "title": "Identity Platform Viewer"
+  },
+  {
     "description": "Full access to Identity Toolkit resources.",
     "etag": "AA==",
     "name": "roles/identitytoolkit.admin",
@@ -2556,14 +2571,14 @@
     "description": "Full access to Network Management resources.",
     "etag": "AA==",
     "name": "roles/networkmanagement.admin",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Network Management Admin"
   },
   {
     "description": "Read-only access to Network Management resources.",
     "etag": "AA==",
     "name": "roles/networkmanagement.viewer",
-    "stage": "BETA",
+    "stage": "GA",
     "title": "Network Management Viewer"
   },
   {
@@ -3108,21 +3123,21 @@
     "description": "Full control of all Service Directory resources and permissions.",
     "etag": "AA==",
     "name": "roles/servicedirectory.admin",
-    "stage": "EAP",
+    "stage": "BETA",
     "title": "Service Directory Admin"
   },
   {
     "description": "Edit Service Directory resources.",
     "etag": "AA==",
     "name": "roles/servicedirectory.editor",
-    "stage": "EAP",
+    "stage": "BETA",
     "title": "Service Directory Editor"
   },
   {
     "description": "View Service Directory resources.",
     "etag": "AA==",
     "name": "roles/servicedirectory.viewer",
-    "stage": "EAP",
+    "stage": "BETA",
     "title": "Service Directory Viewer"
   },
   {

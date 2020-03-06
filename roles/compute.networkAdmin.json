@@ -2,6 +2,8 @@
   "description": "Full control of Compute Engine networking resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "compute.acceleratorTypes.get",
+    "compute.acceleratorTypes.list",
     "compute.addresses.create",
     "compute.addresses.createInternal",
     "compute.addresses.delete",

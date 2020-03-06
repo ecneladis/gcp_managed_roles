@@ -11,6 +11,8 @@
     "servicedirectory.endpoints.list",
     "servicedirectory.endpoints.setIamPolicy",
     "servicedirectory.endpoints.update",
+    "servicedirectory.locations.get",
+    "servicedirectory.locations.list",
     "servicedirectory.namespaces.associatePrivateZone",
     "servicedirectory.namespaces.create",
     "servicedirectory.namespaces.delete",
@@ -29,6 +31,6 @@
     "servicedirectory.services.update"
   ],
   "name": "roles/servicedirectory.admin",
-  "stage": "EAP",
+  "stage": "BETA",
   "title": "Service Directory Admin"
 }

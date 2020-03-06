@@ -24,6 +24,7 @@
     "compute.firewalls.list",
     "compute.networks.get",
     "compute.subnetworks.get",
+    "iam.serviceAccounts.getAccessToken",
     "logging.logEntries.create",
     "pubsub.topics.create",
     "pubsub.topics.publish",

@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkmanagement.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Network Management Viewer"
 }

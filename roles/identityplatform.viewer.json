@@ -1,0 +1,13 @@
+{
+  "description": "Read access to Identity Platform resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "identityplatform.workloadPoolProviders.get",
+    "identityplatform.workloadPoolProviders.list",
+    "identityplatform.workloadPools.get",
+    "identityplatform.workloadPools.list"
+  ],
+  "name": "roles/identityplatform.viewer",
+  "stage": "BETA",
+  "title": "Identity Platform Viewer"
+}

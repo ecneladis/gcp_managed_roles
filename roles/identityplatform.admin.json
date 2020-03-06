@@ -1,0 +1,21 @@
+{
+  "description": "Full access to Identity Platform resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "identityplatform.workloadPoolProviders.create",
+    "identityplatform.workloadPoolProviders.delete",
+    "identityplatform.workloadPoolProviders.get",
+    "identityplatform.workloadPoolProviders.list",
+    "identityplatform.workloadPoolProviders.undelete",
+    "identityplatform.workloadPoolProviders.update",
+    "identityplatform.workloadPools.create",
+    "identityplatform.workloadPools.delete",
+    "identityplatform.workloadPools.get",
+    "identityplatform.workloadPools.list",
+    "identityplatform.workloadPools.undelete",
+    "identityplatform.workloadPools.update"
+  ],
+  "name": "roles/identityplatform.admin",
+  "stage": "BETA",
+  "title": "Identity Platform Admin"
+}

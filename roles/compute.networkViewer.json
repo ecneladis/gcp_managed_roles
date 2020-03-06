@@ -2,6 +2,8 @@
   "description": "Read-only access to Compute Engine networking resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "compute.acceleratorTypes.get",
+    "compute.acceleratorTypes.list",
     "compute.addresses.get",
     "compute.addresses.list",
     "compute.autoscalers.get",
